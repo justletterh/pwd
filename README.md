@@ -1,10 +1,11 @@
 # About
-This is just a project i did for fun ¯\\\_(ツ)\_/¯. The python program outputs phonetic spelling, the ruby program generates a password, the c programs store and check passwords, and the lua program rates a password.
+This is just a project i did for fun ¯\\\_(ツ)\_/¯. The python program outputs phonetic spelling, the ruby program generates a password, the c programs store and check passwords, the php program checks if your password meets a list of requirements, and the lua program rates a password.
 ## Languages Used
 - [Lua](http://www.lua.org/)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Python](https://www.python.org/)
 - [C](https://www.learn-c.org/) (with [GCC](https://gcc.gnu.org/) and [make](https://www.gnu.org/software/make/))
+- [PHP](https://www.php.net/)
 ## Versions Used
 Python:
 ```
@@ -38,6 +39,14 @@ Copyright (C) 1988-2016 Free Software Foundation, Inc.
 License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
 This is free software: you are free to change and redistribute it.
 There is NO WARRANTY, to the extent permitted by law.
+```
+PHP:
+```
+[hserver]|~| h >>>php -v
+PHP 7.4.7 (cli) (built: Jun 12 2020 07:47:45) ( NTS )
+Copyright (c) The PHP Group
+Zend Engine v3.4.0, Copyright (c) Zend Technologies
+    with Zend OPcache v7.4.7, Copyright (c), by Zend Technologies
 ```
 ## Credit
 yea this is a small project, its just me ^^
