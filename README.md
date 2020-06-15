@@ -1,5 +1,5 @@
 # About
-This is just a project i did for fun ¯\\\_(ツ)\_/¯. The python program outputs phonetic spelling. The ruby program generates a password. and the lua program rates a password.
+This is just a project i did for fun ¯\\\_(ツ)\_/¯. The python program outputs phonetic spelling, the ruby program generates a password, and the lua program rates a password.
 ## Languages Used
 - [Lua](http://www.lua.org/)
 - [Ruby](https://www.ruby-lang.org/en/)
